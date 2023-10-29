@@ -24,7 +24,7 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
-    padding: 0px 450px 0px 450px;
+    padding: 0px 24% 0px 24%;
     margin-bottom: 60px;
     font-size: 18px;
 }
@@ -47,7 +47,7 @@ ul {
 .main-novel {
     display: flex;
     justify-content: space-between;
-    padding: 0px 450px 0px 450px;
+    padding: 0px 24% 0px 24%;
     background-color: #1F2937;
     color: white;
 }
@@ -95,7 +95,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 0px 450px 0px 450px;
+    padding: 0px 24% 0px 24%;
     margin-bottom: 60px;
 }
 
@@ -141,7 +141,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 60px 450px 60px 450px;
+    padding: 60px 24% 60px 24%;
     margin-bottom: 60px;
     gap: 10px;
 }
@@ -163,7 +163,7 @@ h2 {
 /* call to action */
 .call {
     color: white;
-    padding: 0px 450px 0px 450px;
+    padding: 0px 24% 0px 24%;
     margin-bottom: 60px;
 }
 
